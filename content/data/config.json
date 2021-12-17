@@ -21,7 +21,7 @@
                 "elementId": "career",
                 "showIcon": true,
                 "icon": "arrowLeftCircle",
-                "iconPosition": "left"
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
