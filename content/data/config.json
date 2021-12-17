@@ -20,7 +20,7 @@
                 "altText": "",
                 "elementId": "career",
                 "showIcon": true,
-                "icon": "cart"
+                "icon": "arrowLeftCircle"
             },
             {
                 "type": "Link",
