@@ -6,24 +6,19 @@ sections:
     elementId: ''
     title: Need Answers?
     items:
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+      - question: Are you looking for work?
+        answer: >+
+          Yes, I just graduated a web development bootcamp and I am looking for
+          a fullstack role!
+
+      - question: What's the most useful business-related book you've ever read?
+        answer: |+
+          A Random Walk Down Wall Street
+
+      - question: What's your favorite non-business book?
+        answer: |+
+          Hitchhiker's Guide To The Galaxy
+
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
