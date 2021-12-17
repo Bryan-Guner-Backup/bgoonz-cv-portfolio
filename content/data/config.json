@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "Careers",
                 "url": "/careers",
-                "altText": "",
+                "altText": "career interests",
                 "elementId": "career",
                 "showIcon": true,
                 "icon": "arrowLeftCircle",
