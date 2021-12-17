@@ -19,7 +19,8 @@
                 "url": "/careers",
                 "altText": "",
                 "elementId": "career",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "linkedin"
             },
             {
                 "type": "Link",
