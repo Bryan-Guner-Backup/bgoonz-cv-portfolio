@@ -18,7 +18,8 @@
                 "label": "Careers",
                 "url": "/careers",
                 "altText": "",
-                "elementId": "career"
+                "elementId": "career",
+                "showIcon": true
             },
             {
                 "type": "Link",
