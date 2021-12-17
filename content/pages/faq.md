@@ -11,7 +11,7 @@ sections:
           Yes, I just graduated a web development bootcamp and I am looking for
           a fullstack role!
 
-      - question: How it this different from what we have today?
+      - question: What's the most useful business-related book you've ever read?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
