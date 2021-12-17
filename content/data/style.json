@@ -71,7 +71,7 @@
         "borderRadius": "none",
         "borderStyle": "solid",
         "horizontalPadding": 30,
-        "verticalPadding": 8,
+        "verticalPadding": 3,
         "shadow": "none"
     },
     "link": {
