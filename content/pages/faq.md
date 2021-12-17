@@ -15,7 +15,7 @@ sections:
         answer: |+
           A Random Walk Down Wall Street
 
-      - question: How it this different from what we have today?
+      - question: What's your favorite non-business book?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
