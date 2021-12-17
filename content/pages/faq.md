@@ -7,11 +7,10 @@ sections:
     title: Need Answers?
     items:
       - question: Are you looking for work?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >+
+          Yes, I just graduated a web development bootcamp and I am looking for
+          a fullstack role!
+
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
