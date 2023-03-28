@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "@stackbit/cli": "^0.1.25",
-        "axios": "^0.24.0",
+        "axios": "^0.27.0",
         "classnames": "^2.3.1",
         "dayjs": "^1.10.7",
         "jose": "^3.14.3",
